@@ -72,7 +72,7 @@
       overflow: hidden;
     }
   }
-  .home-pg > h1 {
+  .home-pg h1 {
     text-align: center;
     background-color: hsl(220, 20%, 20%);
     color: hsl(0, 0%, 90%);
